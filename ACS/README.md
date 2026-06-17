@@ -126,6 +126,10 @@ results/sequencias_algorithm.csv  (gerado via ver_sequencias.py)
                   └─ results/comparacao.csv  ← comparativo final
 ```
 
+## Resultados
+
+Em results, tem cada sequenciamento gerado pelo algoritmo por disciplina. O algoritmo foi executado 5 vezes por disciplina.
+
 ### Requisitos adicionais
 
 Os scripts do experimento utilizam as mesmas dependências do projeto base (ver seção [Requirements](#requirements)). Certifique-se de que o ambiente virtual está ativo e que as dependências estão instaladas:
