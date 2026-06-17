@@ -101,6 +101,7 @@ Scripts PHP e Python para configurar o Moodle.
 - MySQL com o banco `introducao_a_computacao` importado
 - Python 3.10+ com `numpy` instalado
 - Repositório ACS com os módulos `acs/`, `algorithms/` e `utils/`. Disponível em: https://github.com/lapic-ufjf/evolutionary-ACS-benchmark
+- Dados do LOM disponível em: https://github.com/lapic-ufjf/LAPIC3-benchmark
 
 ---
 
